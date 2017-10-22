@@ -1,3 +1,0 @@
-/**
- * some utility goes here
- **/
